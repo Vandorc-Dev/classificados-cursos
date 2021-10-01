@@ -1,2 +1,2 @@
 # classificados-cursos
-Prototipo de um site de divlugação de cursos.
+Prototipo de um site de divulgação de cursos.
